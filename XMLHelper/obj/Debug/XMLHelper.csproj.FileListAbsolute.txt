@@ -1,0 +1,5 @@
+D:\Thai\Thai lib\XML\XMLHelper\XMLHelper\bin\Debug\XMLHelper.dll
+D:\Thai\Thai lib\XML\XMLHelper\XMLHelper\bin\Debug\XMLHelper.pdb
+D:\Thai\Thai lib\XML\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csprojAssemblyReference.cache
+D:\Thai\Thai lib\XML\XMLHelper\XMLHelper\obj\Debug\XMLHelper.dll
+D:\Thai\Thai lib\XML\XMLHelper\XMLHelper\obj\Debug\XMLHelper.pdb
